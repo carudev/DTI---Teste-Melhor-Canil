@@ -1,14 +1,7 @@
-
 package melhorcanil;
 
 import java.util.*;
-import melhorcanil.*;
 import java.util.Scanner;
-//import static melhorcanil.GetDate.getDateforPrice;
-//import float melhorcanil.PetShop.getLowestPrice;
-//import  melhorcanil.PetShop.getLowestPrice;
-
-
 
 public class BestPetShop {
     

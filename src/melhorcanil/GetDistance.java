@@ -49,9 +49,4 @@ public class GetDistance implements Comparable<GetDistance> {
         return Integer.compare(this.distance, t.getDistance()); //Compara pela distância
         //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
-    
-
-    
-    
-}
+};

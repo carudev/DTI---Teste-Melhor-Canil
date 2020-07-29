@@ -1,21 +1,15 @@
 package melhorcanil;
-import java.text.SimpleDateFormat;
+
 import java.util.Calendar;
-import java.util.Date;
 import java.util.GregorianCalendar;
-import java.util.Locale;
 import java.util.Scanner;
 
-
-
 public class GetDate {
-
-      
+ 
    @SuppressWarnings({ "resource" })
    
     public int getDateforPrice() throws Exception {
-        
-    
+
     Scanner input = new Scanner (System.in);
     
     //Recebendo o dia
@@ -67,11 +61,7 @@ public class GetDate {
         return weekDay = 1;
     } else {
         return weekDay = 2;
-    }  
-};
+    }
     
-   
-    
-
-        
+    };   
 };
